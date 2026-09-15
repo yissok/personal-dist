@@ -1,0 +1,21 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1",
+  "app": "personal",
+  "global": "__sveltekit_cg6rox",
+  "start": "_app/immutable/entry/start.CIZKc7yS.js",
+  "appEntry": "_app/immutable/entry/app.BoE1Evwj.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/entry/start.CIZKc7yS.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/1s6hF5Yq.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/B82RrAdO.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/BeUEWJQA.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/entry/app.BoE1Evwj.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/CwGCPvmO.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/D-OcqRlg.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/chunks/D6hwYlbd.js",
+    "https://yissok.github.io/personal-dist/releases/701eb29503a95a7c2e3648fbc9ce175ddfdb0fc3-34983371936-1/_app/immutable/nodes/0.DDRlsYmh.js"
+  ]
+}
